@@ -1,0 +1,10 @@
+INSERT INTO `user` VALUES ('1001', '天空', '1524502493@qq.com', '123');
+INSERT INTO `user` VALUES ('1002', '海洋', '13453161351@qq.com', '1234');
+INSERT INTO `user` VALUES ('1456', '刘庆', '116513654831@163.com', '5210');
+INSERT INTO `user` VALUES ('4687', '王维', '3535434@qq.com', '7456');
+INSERT INTO `user` VALUES ('10011', '10011', '161631843@qq.com', '10011');
+INSERT INTO `user` VALUES ('10012', '张三', '161631843@qq.com', '123');
+INSERT INTO `user` VALUES ('35453', '陈旭', '1531351843@qq.com', '3698');
+INSERT INTO `user` VALUES ('123456', '嘻嘻', '123456@qq.com', '123');
+INSERT INTO `user` VALUES ('1123', 'siss', '123@qq.com', '123');
+INSERT INTO `user` VALUES ('123456789', '1ll', '123456789@qq.com', '145');
